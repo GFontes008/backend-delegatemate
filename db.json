@@ -1,33 +1,72 @@
 {
-  "projects": [
+  "CompanyPage": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
+      "title": "pipewise",
+      "description": "Plumbing Company",
       "userId": 1
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
+      "title": "shockspot",
+      "description": "Electricity Company",
       "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "hydrohub",
+      "description": "Water Company",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "verilegal",
+      "description": "Lawyer Company",
+      "userId": 1
+    }
+  ],
+
+  "HomePage": [
+    {
+      "sectionId": 1,
+      "sectionTitle": "Welcome",
+      "content": "Welcome to our website!"
+    },
+    {
+      "sectionId": 2,
+      "sectionTitle": "About Us",
+      "content": "We provide various services across multiple industries."
+    }
+  ],
+
+  "RequestPage": [
+    {
+      "requestId": 1,
+      "requestType": "Service Inquiry",
+      "description": "Inquire about our services."
+    },
+    {
+      "requestId": 2,
+      "requestType": "Support Request",
+      "description": "Request support for a service."
+    }
+  ],
+
+  "PersonalDetails": [
+    {
+      "userId": 1,
+      "name": "Renan",
+      "email": "renan@example.com"
+    },
+    {
+      "userId": 2,
+      "name": "Guilherme",
+      "email": "guilherme@example.com"
+    },
+    {
+      "userId": 2,
+      "name": "Jonathan",
+      "email": "jonathan@example.com"
     }
   ]
 }
