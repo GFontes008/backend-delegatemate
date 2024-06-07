@@ -52,7 +52,7 @@
     }
   ],
 
-  "PersonalDetails": [
+  "PersonalDetailsPage": [
     {
       "userId": 1,
       "name": "Renan",
@@ -67,6 +67,36 @@
       "userId": 2,
       "name": "Jonathan",
       "email": "jonathan@example.com"
+    }
+  ],
+  "NotFound": [
+    {
+      "userId": 1,
+      "name": "Renan",
+      "email": "renan@example.com"
+    }
+  ],
+
+  "LoginPage": [
+    {
+      "userId": 1,
+      "name": "Renan",
+      "email": "renan@example.com"
+    }
+  ],
+
+  "About": [
+    {
+      "userId": 1,
+      "name": "Renan",
+      "email": "renan@example.com"
+    }
+  ],
+  "CompanyPage": [
+    {
+      "userId": 1,
+      "name": "Renan",
+      "email": "renan@example.com"
     }
   ]
 }
