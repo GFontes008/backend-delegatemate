@@ -39,7 +39,7 @@
     }
   ],
 
-  "RequestPage": [
+  "RequestReceivedPage": [
     {
       "requestId": 1,
       "requestType": "Service Inquiry",
@@ -52,7 +52,7 @@
     }
   ],
 
-  "PersonalDetailsPage": [
+  "OpenRequestPage": [
     {
       "userId": 1,
       "name": "Renan",
