@@ -25,7 +25,6 @@
       "userId": 1
     }
   ],
-
   "HomePage": [
     {
       "sectionId": 1,
@@ -38,7 +37,6 @@
       "content": "We provide various services across multiple industries."
     }
   ],
-
   "RequestReceivedPage": [
     {
       "requestId": 1,
@@ -51,7 +49,6 @@
       "description": "Request support for a service."
     }
   ],
-
   "OpenRequestPage": [
     {
       "userId": 1,
@@ -76,15 +73,23 @@
       "email": "renan@example.com"
     }
   ],
-
-  "LoginPage": [
+  "users": [
     {
-      "userId": 1,
-      "name": "Renan",
-      "email": "renan@example.com"
+      "id": 1,
+      "username": "Renan",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "username": "Guilherme",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "username": "Jonny",
+      "password": "1234"
     }
   ],
-
   "About": [
     {
       "userId": 1,
