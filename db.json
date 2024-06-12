@@ -1,29 +1,55 @@
 {
-  "CompanyPage": [
+  "companies": [
     {
       "id": 1,
-      "title": "pipewise",
-      "description": "Plumbing Company",
-      "userId": 1
+      "title": "Plumber Pro",
+      "description": "Expert plumbing services.",
+      "city": "Lisbon",
+      "service": "Plumbing"
     },
     {
       "id": 2,
-      "title": "shockspot",
-      "description": "Electricity Company",
-      "userId": 1
+      "title": "Berlin Electric",
+      "description": "Reliable electrical services.",
+      "city": "Lisbon",
+      "service": "Electrician"
     },
     {
       "id": 3,
-      "title": "hydrohub",
-      "description": "Water Company",
-      "userId": 1
+      "title": "Lisbon Telco",
+      "description": "Top-notch telephone services.",
+      "city": "Lisbon",
+      "service": "Telephone Provider"
     },
     {
       "id": 4,
-      "title": "verilegal",
-      "description": "Lawyer Company",
-      "userId": 1
+      "title": "Water Services",
+      "description": "Very good services.",
+      "city": "Berlin",
+      "service": "Plumbing"
+    },
+    {
+      "id": 5,
+      "title": "Berlin Electric",
+      "description": "better than lightning mcqueen.",
+      "city": "Berlin",
+      "service": "Electrician"
+    },
+    {
+      "id": 6,
+      "title": "Berlin communication",
+      "description": "Connecting pople.",
+      "city": "Berlin",
+      "service": "Telephone Provider"
+    },
+    {
+      "id": 7,
+      "title": "another company",
+      "description": "another.",
+      "city": "Lisbon",
+      "service": "Plumbing"
     }
+    
   ],
   "HomePage": [
     {
