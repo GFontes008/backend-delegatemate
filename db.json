@@ -49,19 +49,6 @@
       "city": "Lisbon",
       "service": "Plumbing"
     }
-    
-  ],
-  "HomePage": [
-    {
-      "sectionId": 1,
-      "sectionTitle": "Welcome",
-      "content": "Welcome to our website!"
-    },
-    {
-      "sectionId": 2,
-      "sectionTitle": "About Us",
-      "content": "We provide various services across multiple industries."
-    }
   ],
   "RequestReceivedPage": [
     {
@@ -75,21 +62,20 @@
       "description": "Request support for a service."
     }
   ],
-  "OpenRequestPage": [
+  "create-request-page": [
     {
-      "userId": 1,
-      "name": "Renan",
-      "email": "renan@example.com"
+      "worker": "Water U Drink",
+      "standard": "standard (5-365 days)",
+      "service":"Plumbing",
+      "status": "pending",
+      "id": 2
     },
     {
-      "userId": 2,
-      "name": "Guilherme",
-      "email": "guilherme@example.com"
-    },
-    {
-      "userId": 2,
-      "name": "Jonathan",
-      "email": "jonathan@example.com"
+      "worker": "Electrics'R'Us",
+      "standard": "standard (5-365 days)",
+      "service":"Electrician",
+      "status": "completed",
+      "id": 3
     }
   ],
   "NotFound": [
@@ -114,6 +100,18 @@
       "id": 3,
       "username": "Jonny",
       "password": "1234"
+    },
+    {
+      "name": "Blacky",
+      "surName": "Castro",
+      "username": "Blacky",
+      "password": "1234",
+      "email": "blacky@renan.com",
+      "telephone": "12345",
+      "address": "Street",
+      "city": "New York",
+      "postcode": "20010",
+      "id": 4
     }
   ],
   "About": [
