@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Plumber Pro",
-      "description": "Expert plumbing services.",
+      "description": "Expert plumbing solutions, specializing in repairs and installations.",
       "city": "Lisbon",
       "service": "Plumbing"
     },
@@ -24,14 +24,14 @@
     {
       "id": 4,
       "title": "Water Services",
-      "description": "Very good services.",
+      "description": "Expert plumbing solutions, specializing in repairs and installations.",
       "city": "Berlin",
       "service": "Plumbing"
     },
     {
       "id": 5,
       "title": "Berlin Electric",
-      "description": "better than lightning mcqueen.",
+      "description": "Better than Lightning Mcqueen.",
       "city": "Berlin",
       "service": "Electrician"
     },
@@ -44,8 +44,8 @@
     },
     {
       "id": 7,
-      "title": "another company",
-      "description": "another.",
+      "title": "Water U Drink",
+      "description": "Sustainable plumbing solutions, integrating eco-friendly technology and expertise.",
       "city": "Lisbon",
       "service": "Plumbing"
     }
@@ -62,22 +62,7 @@
       "description": "Request support for a service."
     }
   ],
-  "create-request-page": [
-    {
-      "worker": "Water U Drink",
-      "standard": "standard (5-365 days)",
-      "service":"Plumbing",
-      "status": "pending",
-      "id": 2
-    },
-    {
-      "worker": "Electrics'R'Us",
-      "standard": "standard (5-365 days)",
-      "service":"Electrician",
-      "status": "completed",
-      "id": 3
-    }
-  ],
+  "create-request-page": [],
   "NotFound": [
     {
       "userId": 1,
